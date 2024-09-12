@@ -1,4 +1,4 @@
-[          "Made by zqh", "Project FXT"
+[          "Made by zqh", "Project FXT v1.0"
     "i tried making new type of obfuscation xD"
               "difficulty : [20/100]",
           "ur goal : try re the src code "
@@ -31,7 +31,7 @@
         k()(globals(),(lambda f,g,b,: b[::-1]   +  g %"e"+f)
                 ("r",
                 "%sa",
-                "lc",)))))),
+                "lc",))())))),
 
         )
     )
