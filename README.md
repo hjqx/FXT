@@ -1,7 +1,8 @@
 ```py
-[          "Made by zqh", "Project FXT"
-    "i tried making new type of obfuscation xD"
-              "difficulty : [33/100]",
+[          "Made by zqh", "Project FXT",
+    "i tried making new type of obfuscation xD",
+              "difficulty : [20/100]",
+          "ur goal : try re the src code"
 ]
 
 
